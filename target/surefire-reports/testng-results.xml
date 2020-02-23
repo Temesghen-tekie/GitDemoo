@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="49" started-at="2019-05-02T21:19:56Z" finished-at="2019-05-02T21:19:56Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="49" started-at="2019-05-02T21:19:56Z" finished-at="2019-05-02T21:19:56Z">
+      <class name="qaclickacademy.APPiumTest">
+        <test-method status="PASS" signature="IOSAPPS()[pri:0, instance:qaclickacademy.APPiumTest@614c5515]" name="IOSAPPS" duration-ms="7" started-at="2019-05-02T14:19:56Z" finished-at="2019-05-02T14:19:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSAPPS -->
+        <test-method status="PASS" signature="NativeAPPAndriod()[pri:0, instance:qaclickacademy.APPiumTest@614c5515]" name="NativeAPPAndriod" duration-ms="0" started-at="2019-05-02T14:19:56Z" finished-at="2019-05-02T14:19:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAPPAndriod -->
+      </class> <!-- qaclickacademy.APPiumTest -->
+      <class name="qaclickacademy.RESTAPITest">
+        <test-method status="PASS" signature="deltetwitter()[pri:0, instance:qaclickacademy.RESTAPITest@6be46e8f]" name="deltetwitter" duration-ms="0" started-at="2019-05-02T14:19:56Z" finished-at="2019-05-02T14:19:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deltetwitter -->
+        <test-method status="PASS" signature="postjira()[pri:0, instance:qaclickacademy.RESTAPITest@6be46e8f]" name="postjira" duration-ms="1" started-at="2019-05-02T14:19:56Z" finished-at="2019-05-02T14:19:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postjira -->
+      </class> <!-- qaclickacademy.RESTAPITest -->
+      <class name="qaclickacademy.seleniumTest">
+        <test-method status="PASS" signature="selenium2()[pri:0, instance:qaclickacademy.seleniumTest@68837a77]" name="selenium2" duration-ms="0" started-at="2019-05-02T14:19:56Z" finished-at="2019-05-02T14:19:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selenium2 -->
+        <test-method status="PASS" signature="selenium3()[pri:0, instance:qaclickacademy.seleniumTest@68837a77]" name="selenium3" duration-ms="1" started-at="2019-05-02T14:19:56Z" finished-at="2019-05-02T14:19:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selenium3 -->
+        <test-method status="PASS" signature="slenium1()[pri:0, instance:qaclickacademy.seleniumTest@68837a77]" name="slenium1" duration-ms="1" started-at="2019-05-02T14:19:56Z" finished-at="2019-05-02T14:19:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- slenium1 -->
+      </class> <!-- qaclickacademy.seleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
