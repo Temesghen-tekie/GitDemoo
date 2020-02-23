@@ -1,0 +1,16 @@
+
+public class MasterData {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		}
+	public void city(){
+		System.out.println("Asmara");
+	}
+	
+	public void country(){
+		System.out.println("Eritrea");
+	}
+
+}

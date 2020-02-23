@@ -1,0 +1,15 @@
+
+public class Son extends MasterData {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Son s=new Son();
+		s.city();
+		s.country();
+
+	}
+	
+	
+
+}

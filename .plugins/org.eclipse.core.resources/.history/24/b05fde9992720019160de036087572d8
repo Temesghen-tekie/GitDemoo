@@ -1,0 +1,12 @@
+package Alpha;
+import org.apache.logging.log4j.*;
+
+public class Demo {
+	
+private Static Logger Log=LogManager.get
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

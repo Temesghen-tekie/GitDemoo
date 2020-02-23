@@ -1,0 +1,18 @@
+
+public class StringReverse {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String r="Robel";
+		
+		System.out.println(r.substring(2, 1));
+		//String k="";
+		/*for(int i=r.length()-1;i>=0;i--){
+			String l="" +r.substring(2, 2);
+         System.out.println(l);
+		}*/
+	
+
+	}
+
+}
